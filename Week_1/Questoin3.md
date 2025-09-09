@@ -1,3 +1,5 @@
 ### Question 3
 1. There are more than one activation function, how to decide which one to use?
+    For this question, I know that since sigmoid's derivative is smaller than 0.25, so if the netwrok is deep. It will cause Gradient Vanish. This is the reason why we will choose Relu if we train deep networks. But in gernel, I think there is a way for us to check whether the activation function is proper for the question condition.
 2. If we use neural network, we can approximating any function. But if we want to use polynomial regression, how to decide which feature should be high-order?
+    For this problem, I think we can choose 
