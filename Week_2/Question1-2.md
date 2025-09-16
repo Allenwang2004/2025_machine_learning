@@ -1,0 +1,1 @@
+In class, we talked about how many neurons are needed to approximate different powers of X. If the function being approximated is a multi-power term, does the number of neurons needed to approximate it add up or is it completely irrelevant?
