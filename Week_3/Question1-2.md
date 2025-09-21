@@ -1,0 +1,2 @@
+Since we cannot guarantee that each layer or each neuron in the neural network will learn a specific 
+monomial individually, How can we say that the neural network can approximate any continuous function?
