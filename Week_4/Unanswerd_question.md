@@ -1,0 +1,1 @@
+Gaussian Discriminant Analysis (GDA) assumes that the class-conditional distributions of the features are multivariate Gaussian. However, in many real-world datasets, this assumption is often violated. What are the standard techniques or model extensions to handle non-Gaussian feature distributions in generative classification frameworks
