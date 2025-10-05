@@ -1,0 +1,1 @@
+Does a multivariate Gaussian appear as a univariate Gaussian when sliced ​​out in each dimension?
