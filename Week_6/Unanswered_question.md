@@ -1,0 +1,1 @@
+If QDA’s decision boundary is roughly oval-shaped, what model can I use to capture more complex or highly curved boundaries?
