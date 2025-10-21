@@ -1,0 +1,1 @@
+Is the score function only used for continuous probability distributions?
