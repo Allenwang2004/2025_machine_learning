@@ -1,3 +1,3 @@
-# 2025 machine learning
+# NYCU machine learning
 
-> Assignments and notes
+> Course assignments and notes for maching learning class took in 2025 fall semester.
